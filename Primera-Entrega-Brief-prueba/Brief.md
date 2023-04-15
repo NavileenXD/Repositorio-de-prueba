@@ -1,6 +1,6 @@
 # Brief
 - Version: <x.y>
-- <Nombre del sistema>
+- Nombre del sistema
 - Fecha:  <dd/mm/aa>
 
 
